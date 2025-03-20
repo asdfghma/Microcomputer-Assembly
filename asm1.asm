@@ -1,0 +1,16 @@
+	LDAA	#5
+	LDAB	#8
+	LDAA	#81
+	LDX		#5
+	STAB	$71
+	STAA	$72
+
+	ADDB	#$71
+	ADDB	$71
+	ADDA	#5
+	STAA	$90
+	ABA	
+	TAB
+	TBA
+	ASLA
+	ASLB
