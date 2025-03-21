@@ -1,0 +1,8 @@
+	LDAA	#3
+	LDAB	#5
+	ASLA	
+	ASLB
+	STAA	$30
+	STAB	$50
+	ABA
+	STAA	$70
