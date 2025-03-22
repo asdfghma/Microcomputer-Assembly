@@ -1,0 +1,6 @@
+	LDAA	#3
+	INCA	
+	LDAB	#5
+	INCB
+	DECA
+	DECB
