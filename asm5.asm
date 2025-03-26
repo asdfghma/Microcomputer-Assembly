@@ -1,0 +1,6 @@
+	LDAA	#3
+	PSHA
+	LDAA	#5
+	PSHA
+	PULB
+	PULB
