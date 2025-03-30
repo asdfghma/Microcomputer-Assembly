@@ -1,0 +1,5 @@
+	LDX		#$4444
+	STX		$20
+	LDS		#01122
+	LDAA	#$10
+	PSHA
