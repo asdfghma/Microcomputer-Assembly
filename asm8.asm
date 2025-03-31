@@ -1,0 +1,12 @@
+	LDX		#$4444
+	STX		$20
+	LDS		#$0105	
+	STS		$30
+	LDAA 	$21
+	LDAB	$32
+	SBA
+	STAA	$42
+	LDAA	$20
+	SBCA	$30
+	STAA	$40
+	LDX		$40
