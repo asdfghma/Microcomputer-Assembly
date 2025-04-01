@@ -1,0 +1,10 @@
+	LDAA	#$50
+	LDAB	#$05
+	LDX		#$0050
+
+XX	STAA	$00,X
+	INX
+	SBA
+	BNE XX
+
+	END
