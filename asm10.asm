@@ -1,0 +1,9 @@
+	LDAA	#$50
+	STAA	$20
+	LDAB	#$40
+	STAB	$30
+	CLRA	
+	LDAA	$20
+	SUBA	$30
+	STAA	$40
+	END
