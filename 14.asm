@@ -1,0 +1,5 @@
+	LDAA	#$55
+	STAA	$50
+	LDAB	$50
+	ANDB	#$0F
+	STAB	$60
